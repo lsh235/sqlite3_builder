@@ -1,0 +1,8 @@
+﻿  main.cpp
+f:\sra235\주 프로젝트\lib\sqlite3\sqlite3_sample\main.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  1 of 2958 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sqlite3_sample.vcxproj -> F:\sra235\주 프로젝트\lib\sqlite3\Release\sqlite3_sample.exe

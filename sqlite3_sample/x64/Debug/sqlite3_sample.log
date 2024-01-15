@@ -1,0 +1,3 @@
+﻿  main.cpp
+f:\sra235\주 프로젝트\lib\sqlite3\sqlite3_sample\main.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  sqlite3_sample.vcxproj -> F:\sra235\주 프로젝트\lib\sqlite3\x64\Debug\sqlite3_sample.exe
